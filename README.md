@@ -5,7 +5,7 @@ This repository contains two CSV files of 37 misaligned galaxies as our sample (
 3. SNR_HI: The signal-to-noise ratio of the HI spectrum calculated through the function mentioned in the paper.
 4. kappa: Spectral shape parameter K calculated through curve of growth method, where K>0 indicating a single-peaked shape and K<0 indicating a double-horned shape.
 5. kappa_statErr: The standard error of kappa.
-6. af: Spectral assymetry parameter A_F calculated through curve of growth method, where the larger A_F is means a more assymetric HI profile.
+6. af: Spectral asymmetry parameter A_F calculated through curve of growth method, where the larger A_F is means a more asymmetric HI profile.
 7. af_statErr: The standard error of af.
 8. cv: The concentration of HI profile calculated as C_V = V_85/_V25, where V_85 and V_25 are the velocity widths containing 85% and 25% of the flux of HI profile.
 9. cv_statErr: The standard error of cv.
